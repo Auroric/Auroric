@@ -1,6 +1,6 @@
 # Hi! I'm Aaron👋
 
-I'm currently a third-year undergradute student at [UC San Diego](https://ucsd.edu), double majoring in [Computer Science](https://cse.ucsd.edu) and [Cognitive Science](https://cogsci.ucsd.edu).
+I'm currently a third-year undergradute student at [UC San Diego](https://ucsd.edu), double majoring in [Computer Science](https://cse.ucsd.edu) and [Cognitive Science](https://cogsci.ucsd.edu). I'm interested in robots and how humans interact with them, focusing on autonomous vehicles and robot-assisted surgery. 
 
 * I'm currently working at:
   * 💻[MaXentric](https://maxentric.com), as a software engineering intern 
