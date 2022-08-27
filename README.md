@@ -1,4 +1,4 @@
-# Hi! I'm Aaron.
+# Hi! I'm Aaron👋
 
 I'm currently a third-year undergradute student at [UC San Diego](https://ucsd.edu), double majoring in [Computer Science](https://cse.ucsd.edu) and [Cognitive Science](https://cogsci.ucsd.edu).
 
