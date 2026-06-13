@@ -1,9 +1,6 @@
 # Hi! I'm Aaron 👋
 
-I'm currently a fourth-year undergraduate student (and soon first-year Master's student) at [UC San Diego](https://ucsd.edu) studying [Computer Science](https://cse.ucsd.edu). I'm interested in robots and how humans interact with them, particularly with regards to autonomous vehicles and surgical robotics. 
-
-* I will be working at:
-  * 🏢 [LinkedIn](https://www.linkedin.com/in/aaron-x-yu/), as a software engineering intern.
+Currently a SWE @ [Databricks](https://www.databricks.com/) :)
 
 * I've previously worked at:
   * 🏢 [LinkedIn](https://www.linkedin.com/in/aaron-x-yu/), as a mobile engineering intern.
